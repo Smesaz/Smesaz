@@ -10,16 +10,70 @@ Hello I'm Sebastian Mesa!
 I started to study software development because I used to code a lot when I was in the university programing hardware environments.<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+![living](https://img.shields.io/badge/living-Colombia-yellow)
+![age](https://img.shields.io/badge/age-26-green)
+
 <!--
 **Smesaz/Smesaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on *my final group project into @soyHenry*
-- 🌱 I’m currently learning *TypeScript and Mongo Db* 
-- 👯 I’m looking to collaborate on *front-end and back-end projects*
-<!-- - 📫 How to reach me: ... -->
-- ⚡ Fun fact: **I really enjoy to run every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
 
-## MY STATS 📊
+- 🔭 I’m currently working on my final group project into [Henry](https://github.com/soyHenry)
+- 🌱 I’m currently learning *TypeScript and Mongo Db
+- 👯 I’m looking to collaborate on *front-end and back-end projects
+<!-- - 📫 How to reach me: ... -->
+
+⚡ Fun fact: **I really enjoy to run every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
+
+## GITHUB ANALYTICS ⚙️
  ![](https://github-readme-stats.vercel.app/api?username=Smesaz) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smesaz)
+ 
+## EXPERIENCE 💻
+I've working with these lenguages and tools:
+
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://es.reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://es.redux.js.org/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67" alt="redux" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre/postgre-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/scrum-scm/scrum-scm-icon.svg" alt="scrum" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+</p>
+
+## CONNECT WITH ME 🤝🏻
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+  
+</div>
+
+
  
