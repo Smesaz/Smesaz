@@ -14,11 +14,11 @@ I Started in software programing because of my experience in code when I was in 
 **Smesaz/Smesaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my final group project into @soyHenry...
-- 🌱 I’m currently learning TypeScript and Mongo Db 
-- 👯 I’m looking to collaborate on front-end and back-end projects
+- 🔭 I’m currently working on *my final group project into @soyHenry*
+- 🌱 I’m currently learning *TypeScript and Mongo Db* 
+- 👯 I’m looking to collaborate on *front-end and back-end projects*
 <!-- - 📫 How to reach me: ... -->
-- ⚡ Fun fact: I really enjoy to running every day and participate in many athetic races as Marathons, Half Marathons in the street and also in the mountains...
+- ⚡ Fun fact: **I really enjoy to running every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
 
 ## MY STATS 📊
  ![](https://github-readme-stats.vercel.app/api?username=Smesaz) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smesaz)
