@@ -45,7 +45,7 @@ I've working with these lenguages and tools:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://es.redux.js.org/" target="_blank"> 
-    <img src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67" alt="redux" width="100" height="40"/> 
+    <img src="https://www.digital55.com/wp-content/uploads/2019/11/Cuando_y_por_que_debo_usar_redux_en_mis_proyectos_frontend.jpg" alt="redux" width="50" height="40"/> 
   </a>
    <a href="https://nodejs.org/es/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
