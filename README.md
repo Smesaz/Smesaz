@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *TypeScript and Mongo Db* 
 - 👯 I’m looking to collaborate on *front-end and back-end projects*
 <!-- - 📫 How to reach me: ... -->
-- ⚡ Fun fact: **I really enjoy to running every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
+- ⚡ Fun fact: **I really enjoy to run every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
 
 ## MY STATS 📊
  ![](https://github-readme-stats.vercel.app/api?username=Smesaz) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smesaz)
