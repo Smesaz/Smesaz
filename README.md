@@ -7,7 +7,7 @@ Hello I'm Sebastian Mesa!
   </a>
 </h1>
 <h3 align='center'>I am a Software Developer, and a Electronic Engineer.</h3>
-I Started in software programing because of my experience in code when I was in the university, especially  when I used embedded programing.<br>
+I started to study software development because I used to code a lot when I was in the university programing hardware environments.<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
