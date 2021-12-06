@@ -66,7 +66,7 @@ I've working with these lenguages and tools:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="arduino" width="40" height="40"/> 
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
-    <img src="https://software.uniandes.edu.co/wp-content/uploads/2021/02/Matlab-1.png" alt="scrum" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="scrum" width="40" height="40"/> 
   </a>
   <a href="https://www.ni.com/es-co/support/downloads/software-products/download.labview.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original-wordmark.svg" alt="arduino" width="40" height="40"/> 
