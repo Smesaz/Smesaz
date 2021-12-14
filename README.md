@@ -8,7 +8,7 @@ Hello I'm Sebastian Mesa!
 </h1>
 <h3 align='center'>I am a Software Developer, and a Electronic Engineer.</h3>
 I started to study software development because I used to code a lot when I was in the university programing hardware environments.<br>
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![living](https://img.shields.io/badge/living-Colombia-yellow)
 ![age](https://img.shields.io/badge/age-26-green)
