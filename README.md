@@ -18,9 +18,10 @@ I started to study software development because I used to code a lot when I was 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my final group project into [Henry](https://github.com/soyHenry)
-- 🌱 I’m currently learning *TypeScript and Mongo Db
+- 🔭 I've worked on my final group project into [Henry](https://github.com/soyHenry) named Dingbell App [🛎️](https://restobares-app.web.app/) [click the bell to link]
+- 🌱 I’m currently learning *TypeScript and AWS Cloud Practitioner Essentials*
 - 👯 I’m looking to collaborate on *front-end and back-end projects
+- 🌐 My WebSite clicking [**here**](https://sebastianmesa.herokuapp.com/) 
 <!-- - 📫 How to reach me: ... -->
 
 ⚡ Fun fact: **I really enjoy to run every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
