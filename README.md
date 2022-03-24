@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I've worked on my final group project into [Henry](https://github.com/soyHenry) named Dingbell App [🛎️](https://restobares-app.web.app/) [click the bell to link]
-- 🌱 I’m currently learning *TypeScript and AWS Cloud Practitioner Essentials*
+- 🌱 I’m currently learning *Java with SpringBoot microservices and Angular*
 - 👯 I’m looking to collaborate on *front-end and back-end projects
-- 🌐 My WebSite clicking [**here**](https://sebastianmesa.herokuapp.com/) 
+- 🌐 My WebSite clicking [**here**](https://sebastianmesa.xyz) 
 <!-- - 📫 How to reach me: ... -->
 
 ⚡ Fun fact: **I really enjoy to run every day and participate in many athetic races as Marathons, Half Marathons 🏙️ & ⛰️**
