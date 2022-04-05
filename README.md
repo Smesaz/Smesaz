@@ -11,7 +11,7 @@ I started to study software development because I used to code a lot when I was 
 <a disabled=true><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![living](https://img.shields.io/badge/living-Colombia-yellow)
-![age](https://img.shields.io/badge/age-26-green)
+![age](https://img.shields.io/badge/age-27-blue)
 
 <!--
 **Smesaz/Smesaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
