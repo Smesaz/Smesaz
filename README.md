@@ -48,18 +48,40 @@ I've working with these lenguages and tools:
   <a href="https://es.redux.js.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="40" height="40"/> 
   </a>
+  <a href="https://angular.io/start" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  
    <a href="https://nodejs.org/es/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com/es/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width=40" height="40"/> 
   </a> 
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.java.com/es/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/java.png" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+                                       
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.oracle.com/co/index.html" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  
+  ### Control, Automation and Robotics
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> 
   </a>
