@@ -55,9 +55,6 @@ I've working with these lenguages and tools:
    <a href="https://nodejs.org/es/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://expressjs.com/es/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width=40" height="40"/> 
-  </a> 
   <a href="https://www.java.com/es/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/java.png" alt="java" width="40" height="40"/> 
   </a>
